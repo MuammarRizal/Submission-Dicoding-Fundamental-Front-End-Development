@@ -24,3 +24,31 @@ Evaluasi Pembelajaran :
   - Submission: Membangun aplikasi web sebagai proyek akhir dengan memanfaatkan setiap materi yang telah diserap, seperti JavaScript ES6, Web Component, Webpack sebagai module bundler, dan menampilkan data dari REST API.
 
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah 70 jam.
+
+## Dokumentasi
+
+### 
+Buka Terminal / git bash
+
+<br>
+
+1. Clone Repository Ini
+```bash
+  git clone https://github.com/MuammarRizal/Submission-Dicoding-Fundamental-Front-End-Development.git
+```
+2. Masuk Folder Submission-Fundamental-Front-End-Development
+```bash
+  cd Submission-Fundamental-Front-End-Development
+```
+3. Install Dependencies
+```bash
+  $ npm install
+```
+4. Build App
+```bash
+  $ npm run build 
+```
+5. Jalankan di localhost
+```bash
+  $ npm run start-dev
+```
